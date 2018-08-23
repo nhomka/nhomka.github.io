@@ -1,3 +1,9 @@
 name: Nathan Homka
-markdown: kramdown
+title: Nathan Homka
+email: nathan.homka@gmail.com
+author: Nathan Homka
+baseurl: ""
+permalink: :title
 permalink: /blog/:year/:month/:day/:title
+
+markdown: kramdown
