@@ -1,3 +1,4 @@
+# Site settings
 name: Nathan Homka
 title: Nathan Homka
 email: nathan.homka@gmail.com
@@ -6,4 +7,7 @@ baseurl: ""
 permalink: :title
 permalink: /blog/:year/:month/:day/:title
 
+# Build settings
 markdown: kramdown
+permalink: pretty
+paginate: 3
