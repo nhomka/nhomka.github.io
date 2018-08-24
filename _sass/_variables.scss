@@ -1,0 +1,57 @@
+// Typography
+$base-font-size: 16px !default;
+$bold-font-weight: bold !default;
+$font-family: 'Helvetica', Arial, Sans-Serif !default;
+$line-height: 2.0 !default;
+$heading-font-family: 'Helvetica', Arial, Sans-Serif !default;
+$heading-font-weight: 600 !default;
+$heading-line-height: 1.5 !default;
+$h0: 3rem !default;
+$h1: 2rem !default;
+$h2: 1.5rem !default;
+$h3: 1.25rem !default;
+
+$text-block-size: 250px;
+
+$accent-color: #0b8ac1;
+$accent-color-2: #08648c;
+$base-font-color: #2655e3;
+$body-background-color: #f0faff;
+
+// Page width
+$site-padding: 40rem !default;
+
+// Colors
+$light-pink: #ff66c7 !default;
+$red: #ea1a1a !default;
+$orange: #ff830f !default;
+$yellow: #ffda1f !default;
+$light-green: #68ff57 !default;
+$green: #15d100 !default;
+$dark-green: #095700 !default;
+$light-blue: #b8d3ff !default;
+$blue: #005ef5 !default;
+$dark-blue: #1f0099 !default;
+$light-purple: #e194ff !default;
+$purple: #ba0aff !default;
+$dark-purple: #63008a !default;
+$light-gray: #c4c4c4 !default;
+$gray: #858585 !default;
+$dark-gray: #4d4d4d !default;
+
+// Links
+$link-color: $accent-color;
+$link-hover-color: $accent-color-2;
+
+// Buttons
+$button-font-size: inherit !default;
+$button-font-weight: normal !default;
+$button-line-height: 1rem !default;
+$button-padding-y: .25rem !default;
+$button-padding-x: .5rem !default;
+$button-font-family: $heading-font-family;
+
+// Borders
+$border-color: $gray !default;
+$border-width: 1px !default;
+$border-radius: 3px !default;
