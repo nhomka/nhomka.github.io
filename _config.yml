@@ -11,7 +11,7 @@ collections:
 name: Nathan Homka
 email: nathan.homka@gmail.com
 author: Nathan Homka
-baseurl: ''
+baseurl: 
 permalink: pretty
 date_format: "%b %-d, %Y"
 markdown: kramdown
