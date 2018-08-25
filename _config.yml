@@ -11,6 +11,9 @@ collections:
 name: Nathan Homka
 email: nathan.homka@gmail.com
 author: Nathan Homka
+description: "My personal website"
+baseurl:     ""
+url:         "http://www.nathanhomka.com"
 baseurl: 
 permalink: pretty
 date_format: "%b %-d, %Y"
