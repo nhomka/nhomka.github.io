@@ -12,11 +12,11 @@ name: Nathan Homka
 email: nathan.homka@gmail.com
 author: Nathan Homka
 description: My personal website
-baseurl:
+baseurl: 
 url: http://www.nathanhomka.com
-feedurl: /feed.xml
-permalink: /blog/:title
-resumeurl: /resume.pdf
+feedurl: "/feed.xml"
+permalink: "/blog/:title"
+resumeurl: "/resume.pdf"
 date_format: "%b %-d, %Y"
 markdown: kramdown
 paginate: 4
