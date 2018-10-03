@@ -12,9 +12,11 @@ name: Nathan Homka
 email: nathan.homka@gmail.com
 author: Nathan Homka
 description: My personal website
-baseurl: 
+baseurl:
 url: http://www.nathanhomka.com
-permalink: pretty
+feedurl: /feed.xml
+permalink: /blog/:title
+resumeurl: /resume.pdf
 date_format: "%b %-d, %Y"
 markdown: kramdown
 paginate: 4
@@ -36,15 +38,15 @@ txtpen_sitename:
 facebook_comments: 
 facebook_appid: 
 facebook_comments_number: 10
-github_username: 
+github_username: nhomka
 reddit_username: 
 bitbucket_username: 
 stackoverflow_id: 
-twitter_username: 
+twitter_username: NathanHarmonica
 skype_username: 
 steam_nickname: 
 google_plus_id: 
-linkedin_username: 
+linkedin_username: nathanhomka
 angellist_username: 
 medium_id: 
 bitcoin_url: 
